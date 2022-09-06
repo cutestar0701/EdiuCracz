@@ -10,3 +10,4 @@ https://account.cccmypath.org/auth/realms/OpenCCC/account
 wmic cpu get processorid
 BFEBFBFF000306C3
 
+regards by Kgh11976, steven japs
