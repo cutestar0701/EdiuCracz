@@ -11,3 +11,10 @@ wmic cpu get processorid
 BFEBFBFF000306C3
 
 regards by Kgh11976, steven japs
+
+Feedspot
+gartner
+academia.edu
+safe harbor
+edius
+grass valley
