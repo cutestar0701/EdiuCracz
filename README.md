@@ -1,4 +1,4 @@
-# EdiusCracz
+# EdisuCracz
 
 cutestar0701@gmail.com
 myCutestar0701@gmail.com
